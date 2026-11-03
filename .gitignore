@@ -1,0 +1,29 @@
+# LTspice generated netlists, waveforms, and logs
+/sims/*.net
+/sims/*.raw
+/sims/*.log
+
+# KiCad backups, autosaves, local state, and caches
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*-backups/
+_autosave-*
+\#auto_saved_files#
+*.kicad_prl
+fp-info-cache
+*.lck
+.~lock.*#
+
+# Fabrication exports and archives
+*-[Gg]erbers/
+gerbers/
+*.gbr
+*.gbrjob
+*.drl
+*-drl.rpt
+*.zip
+
+# Python caches
+__pycache__/
+*.py[cod]
